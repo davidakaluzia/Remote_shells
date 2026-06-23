@@ -1,0 +1,9 @@
+In here, we just had the target connect to the controller and receive commands from it, which it executes successfully.
+
+In the "intermediate" level, we would be establishing a long-lived shell where you actively pass commands and the taget would retain that connection.
+
+We might also write the taget script in C, compile it for windows, and test it if it still works as expected. And if it does work, then we have out Hack. Sweet :)
+
+Now, you can see how the theory has guided us so far in implemeting this, and how having the basic and foundational concepts has helped us run through this easily without having to vibe code at first.
+
+SO, move on to the next level.
